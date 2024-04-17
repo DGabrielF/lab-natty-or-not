@@ -27,7 +27,9 @@ Apesar dos desafios da crise ambiental, a comunidade demonstra resiliência e in
 Após anos de saúde aparentemente perfeita, Hyahja recebe um diagnóstico devastador: uma doença degenerativa que ameaça tirar sua vida precocemente. O choque e a angústia se instalam na família, enquanto seus pais, Dra. Maral e Dr. Pehran, confrontam a terrível realidade de ver sua filha definhar diante de seus olhos. Determinados a não aceitar a sentença de morte iminente, eles enfrentam uma montanha de desafios emocionais e éticos, decidindo arriscar tudo para encontrar uma cura e garantir a sobrevivência de Hyahja.
 
 Determinados a desafiar o destino predeterminado de sua filha, Dra. Maral e Dr. Pehran decidem explorar todas as opções disponíveis para salvar Hyahja. Movidos pelo amor incondicional e pela esperança inabalável, eles embarcam em uma jornada desafiadora e arriscada, dispostos a enfrentar qualquer obstáculo que surja em seu caminho. Conscientes dos desafios éticos e morais que enfrentarão, estão preparados para sacrificar tudo em nome da vida de sua filha.
+
 ![Rua sombria a noite](darkstreet.jpg)
+
 Em uma noite sombria, Dra. Maral e Dr. Pehran se encontram em seu laboratório improvisado, imersos em uma discussão emocional sobre os desafios que enfrentam e as escolhas difíceis que terão que fazer para salvar Hyahja. As lágrimas de frustração e desespero se misturam às suas vozes tensas enquanto pesam os riscos e benefícios de cada opção. Enquanto Dra. Maral, com sua experiência com tecnologia, defende abordagens tradicionais e éticas, Dr. Pehran, com sua paixão pela medicina, insiste em soluções mais radicais e arriscadas. O dilema moral entre salvar sua filha e os potenciais danos colaterais que suas ações podem causar pesa pesadamente em seus corações, enquanto lutam para encontrar um terreno comum entre suas esperanças e medos.
 
 Eles ponderam sobre os limites éticos e morais que estão prestes a cruzar em sua busca desesperada pela cura de Hyahja.
@@ -102,6 +104,7 @@ Sua coragem diante da adversidade e sua determinação em nunca desistir de seus
 Enquanto a comunidade enfrenta o futuro incerto, eles olham para Hyahja e sua família como exemplos vivos do poder do amor e da resiliência humana, lembrando-se de que, no final das contas, é a união e a determinação que nos capacitam a enfrentar qualquer desafio que a vida nos apresente.
 
 Na essência de cada história de triunfo sobre a adversidade reside uma verdade universal: o poder transformador do amor e a força imparável daqueles que ousam lutar pelos seus sonhos. É nos momentos de maior desafio que o verdadeiro caráter de uma pessoa é revelado, e é através do amor inabalável e da determinação incansável que encontramos a coragem para superar obstáculos aparentemente insuperáveis. Que as histórias de Hyahja e sua família nos lembrem do potencial extraordinário que reside dentro de cada um de nós e nos inspirem a abraçar nossos sonhos com todo o nosso coração, sabendo que, com amor e determinação, não há limites para o que podemos alcançar.
+
 ![Hyahja um raio de esperança](hyahjabolt.jpg)
 
 ## 💭 Reflexão
